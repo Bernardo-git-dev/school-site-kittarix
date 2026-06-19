@@ -1,0 +1,14 @@
+export { HeroSection } from './Hero';
+export { StatsSection } from './Stats';
+export { AboutSection } from './About';
+export { ProgramsSection } from './Programs';
+export { FacilitiesSection } from './Facilities';
+export { TestimonialsSection } from './Testimonials';
+export { StaffSection } from './Staff';
+export { GallerySection } from './Gallery';
+export { EventsSection } from './Events';
+export { StudentLifeSection } from './StudentLife';
+export { ContactSection } from './Contact';
+export { AdmissionsSection } from './Admissions';
+export { FAQSection } from './FAQ';
+export { CallToAction } from './CallToAction';
